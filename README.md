@@ -1,2 +1,1 @@
-# Employee-Manager
-Simple Employee Manger made with Vue and Firestore
+Basic Employee Manager made in Vue.js and Firestore
